@@ -1,0 +1,40 @@
+SIGLA
+
+C= margo editionis Cratandrinae (Basileae 1528)
+Crat. = lectiones in textu editionis Cratandrinae
+Z = codex Tornesianus iarn deperditus (vid. Praef.)
+2², Zb‚ Z² = codex Tornesianus secundum Lambini et Eosi
+et Turnebi testimonia
+Lamb. = lectiones in textu editionis Lambinianae vel Lambini
+coniecturae
+L (marg.) :lectiones Lambini in marg. editionis posterioris
+v. c. = lectiones veteris codicis (fortasse Z) in margine ed.
+Lambinianae posterioris
+W= fragmenta codicis XVurcebmgensss, saecl. ut vid. xi
+exeuntis vel xii ineuntis
+
+M= codex Mediceus 49. 18, anni 1389
+s = codex Vrbinas in bibl. Vaticana 322, saecl. xv,
+Δ = consensus codicum M et s
+
+E = excerpta Ambrosiana E 14, saecl. ut vid. xiv.
+
+N= codex Laurentianus ex abbatia Florentina n. 14,
+saecl. xiv exeuntis vel xv ineuntis
+
+H= codex Landianus in bibl. Placentina 8, eiusdem
+aetatis
+
+π = codex Parisinus in bibl. nationali (Nouv. Fonds 16
+248), fere eiusdem aetatis
+
+O = codex Taurinensis i. 5. 34 in bibl. Vniversitatis‚
+saecl. xv
+
+P=codex Parisinus in bibl. nationali 8336, saecl. xv
+ineuntis
+
+R = codex Parisinus in bibl. nationali 8338, anni 1419
+
+Σ = consensus codicum ENHOP aut EOR aut ORP
+

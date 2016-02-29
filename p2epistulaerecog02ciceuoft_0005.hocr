@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./p2epistulaerecog02ciceuoft_0005.png"; bbox 0 0 1649 2532; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 213 175 1426 414">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 213 175 1426 414">
+     <span class='ocr_line' id='line_1_1' title="bbox 213 175 1426 241; baseline -0.005 0"><span class='ocrx_word' id='word_1_1' title='bbox 213 178 766 241; x_wconf 79' lang='lat' dir='ltr'>SCRIPTORUM</span> <span class='ocrx_word' id='word_1_2' title='bbox 823 175 1426 237; x_wconf 77' lang='lat' dir='ltr'>CLASSICORUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 254 350 1394 414; baseline -0.004 0"><span class='ocrx_word' id='word_1_3' title='bbox 254 353 825 414; x_wconf 80' lang='lat' dir='ltr'><strong>BIBLIOTHECA</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 872 350 1394 411; x_wconf 85' lang='lat' dir='ltr'>OXONIENSIS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 651 988 996 1402">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 651 988 996 1402">
+     <span class='ocr_line' id='line_1_3' title="bbox 651 988 996 1402; baseline 0 1130"><span class='ocrx_word' id='word_1_5' title='bbox 651 988 996 1402; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 671 2098 972 2145">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 671 2098 972 2145">
+     <span class='ocr_line' id='line_1_4' title="bbox 671 2098 972 2145; baseline -0.013 0"><span class='ocrx_word' id='word_1_6' title='bbox 671 2098 972 2145; x_wconf 88' lang='lat' dir='ltr'><strong>OXONII</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 244 2197 1404 2243">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 244 2197 1404 2243">
+     <span class='ocr_line' id='line_1_5' title="bbox 244 2197 1404 2243; baseline -0.008 0"><span class='ocrx_word' id='word_1_7' title='bbox 244 2206 279 2243; x_wconf 84' lang='lat' dir='ltr'>E</span> <span class='ocrx_word' id='word_1_8' title='bbox 324 2204 800 2243; x_wconf 78' lang='lat' dir='ltr'>TYPOGRAPHEO</span> <span class='ocrx_word' id='word_1_9' title='bbox 848 2197 1404 2240; x_wconf 85' lang='lat' dir='ltr'><strong>CLARENDONIANO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 452 2287 1197 2403">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 452 2287 1197 2403">
+     <span class='ocr_line' id='line_1_6' title="bbox 452 2287 1195 2327; baseline -0.009 0"><span class='ocrx_word' id='word_1_10' title='bbox 452 2293 681 2327; x_wconf 67' lang='lat' dir='ltr'>LONDINI</span> <span class='ocrx_word' id='word_1_11' title='bbox 711 2292 778 2325; x_wconf 81' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_12' title='bbox 803 2291 933 2325; x_wconf 89' lang='lat' dir='ltr'>NOVI</span> <span class='ocrx_word' id='word_1_13' title='bbox 963 2287 1195 2323; x_wconf 75' lang='lat' dir='ltr'><strong>EBORACI</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 453 2366 1197 2403; baseline -0.008 -1"><span class='ocrx_word' id='word_1_14' title='bbox 453 2372 578 2403; x_wconf 84' lang='lat' dir='ltr'>APUD</span> <span class='ocrx_word' id='word_1_15' title='bbox 604 2367 953 2403; x_wconf 74' lang='lat' dir='ltr'>HUMPHREDUM</span> <span class='ocrx_word' id='word_1_16' title='bbox 978 2366 1197 2399; x_wconf 83' lang='lat' dir='ltr'>MILFORD</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
